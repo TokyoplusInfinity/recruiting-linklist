@@ -19,3 +19,9 @@ Curated list of articles, tools and anything useful for recruiting delivered to 
 
 [Alan Walker's Breaking Beard](https://www.getrevue.co/profile/breakingbeard)  
 Curated HR Tech News. 2 issues so far.
+
+### Interview Resources
+
+https://interviewsteps.com/blogs/news 
+
+[9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl)  
