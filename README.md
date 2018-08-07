@@ -6,8 +6,8 @@ Ongoing project with regular updates.
 
 ### Newsletter
 
-[Hung Lee's Recruiting Brainfood](http://www.recruitingbrainfood.com/)
+[Hung Lee's Recruiting Brainfood](http://www.recruitingbrainfood.com/)  
 Curated list of articles, tools and anything useful for recruiting delivered to your inbox every sunday.
 
-[Alan Walker's Breaking Beard](https://www.getrevue.co/profile/breakingbeard)
+[Alan Walker's Breaking Beard](https://www.getrevue.co/profile/breakingbeard)  
 Curated HR Tech News. 2 issues so far.
