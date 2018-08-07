@@ -2,6 +2,8 @@
 
 List of Articles I enjoyed reading. Or, being honest, which sounded interesting, were saved to [Pocket](https://getpocket.com/), and are waiting now there for some boredom during a flight. 
 
+[AgileTA: The Next Generation Operating Model for Talent Acquisition](https://www.linkedin.com/pulse/agileta-next-generation-operating-model-talent-dave-putterman/)  
+
 [How to calculate the ROI of Online Communities](https://www.feverbee.com/roi/)  
 
 [Recruitment Metrics - What are in-house Recruiters actually measuring? And why?](https://www.linkedin.com/pulse/recruitment-metrics-what-in-house-recruiters-actually-laura-peakall/)  
