@@ -27,4 +27,4 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 ## Addendum
 Completely unrelated, but none the less important reads
 
-[How to judge a bottle of wine by its label](https://thetakeout.com/how-to-judge-a-bottle-of-wine-by-its-label-1828030852) 
+🍷 [How to judge a bottle of wine by its label](https://thetakeout.com/how-to-judge-a-bottle-of-wine-by-its-label-1828030852) 
