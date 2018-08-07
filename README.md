@@ -25,3 +25,11 @@ Curated HR Tech News. 2 issues so far.
 https://interviewsteps.com/blogs/news 
 
 [9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl)  
+
+### Relocation
+
+[Travelscope](https://www.markuslerner.com/travelscope/)  
+Useful to find out if a candidate can travel without visa to another country for an interview. Also useful to reasearch visa for employee's conference attendance.
+
+[Average Monthly rent by City](https://i.redd.it/0lji1j8bzh711.png)  
+Awesome comparison of Average Monthly Rent for different cities worldwide.
