@@ -4,6 +4,14 @@ Inspired by [Sjamilla's](https://github.com/Sjamilla) awesome [awesome-recruitme
 
 Ongoing project with regular updates.
 
+#### Tools
+
+[Orca](https://useorca.com/)  
+Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections and messages in LinkedIn.
+
+[WhatRuns](https://www.whatruns.com/)  
+Chrome Browser extension that identifies Frameworks, CMS, Templates etc. run on websites.
+
 ### Newsletter
 
 [Hung Lee's Recruiting Brainfood](http://www.recruitingbrainfood.com/)  
