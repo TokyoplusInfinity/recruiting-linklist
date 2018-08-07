@@ -4,6 +4,8 @@ Inspired by [Sjamilla's](https://github.com/Sjamilla) awesome [awesome-recruitme
 
 Ongoing project with regular updates.
 
+Also: Looking for something to read? Have a look at my recommended [Articles](https://github.com/gf-nl/recruiting-linklist/blob/master/articles.md)
+
 ### Tools
 
 [Orca](https://useorca.com/)  
