@@ -24,7 +24,12 @@ Curated HR Tech News. 2 issues so far.
 
 https://interviewsteps.com/blogs/news 
 
-[9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl)  
+[9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl) 
+
+[Updating Your Engineering Interview to Make Better Hiring Decisions](https://www.cockroachlabs.com/blog/updating-eng-interview/)  
+
+[30 Seconds of Interviews](https://30secondsofinterviews.org/)  
+A curated collection of common interview questions to help you prepare for your next interview. 
 
 ### Relocation
 
