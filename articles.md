@@ -4,6 +4,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 
 [AgileTA: The Next Generation Operating Model for Talent Acquisition](https://www.linkedin.com/pulse/agileta-next-generation-operating-model-talent-dave-putterman/)  
 
+[The Power and Importance of Storytelling in Recruitment](https://www.sourcecon.com/the-power-and-importance-of-storytelling-in-recruitment/)
+
 [How to calculate the ROI of Online Communities](https://www.feverbee.com/roi/)  
 
 [Recruitment Metrics - What are in-house Recruiters actually measuring? And why?](https://www.linkedin.com/pulse/recruitment-metrics-what-in-house-recruiters-actually-laura-peakall/)  
