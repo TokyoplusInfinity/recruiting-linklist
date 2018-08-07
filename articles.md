@@ -23,3 +23,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 [My Lessons from Interviewing 400+ Engineers Over Three Startups](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/)
 
 [Why LinkedIn’s Head of Recruiting Never Interviews Candidates in a Conference Room](https://business.linkedin.com/talent-solutions/blog/talent-on-tap/2018/never-interview-in-conference-room)
+
+## Addendum
+Completely unrelated, but none the less important reads
+
+[How to judge a bottle of wine by its label](https://thetakeout.com/how-to-judge-a-bottle-of-wine-by-its-label-1828030852) 
