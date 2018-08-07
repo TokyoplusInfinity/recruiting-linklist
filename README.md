@@ -31,5 +31,5 @@ https://interviewsteps.com/blogs/news
 [Travelscope](https://www.markuslerner.com/travelscope/)  
 Useful to find out if a candidate can travel without visa to another country for an interview. Also useful to reasearch visa for employee's conference attendance.
 
-[Average Monthly rent by City](https://i.redd.it/0lji1j8bzh711.png)  
+[Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
