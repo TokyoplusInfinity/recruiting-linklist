@@ -4,7 +4,7 @@ Inspired by [Sjamilla's](https://github.com/Sjamilla) awesome [awesome-recruitme
 
 Ongoing project with regular updates.
 
-###Newsletter
+### Newsletter
 
 [Hung Lee's Recruiting Brainfood](http://www.recruitingbrainfood.com/)
 Curated list of articles, tools and anything useful for recruiting delivered to your inbox every sunday.
