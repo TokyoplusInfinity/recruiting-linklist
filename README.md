@@ -14,6 +14,16 @@ Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections a
 [WhatRuns](https://www.whatruns.com/)  
 Chrome Browser extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
+[Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)  
+Facebook, LinkedIn and Twitter Search tool. 
+
+[Who posted what?](https://whopostedwhat.com/) by Henk van Ess  
+Facebook keyword search generator.
+
+### For Fun
+
+[Sourcing Games](https://www.sourcing.games/)  
+
 ### Newsletter
 
 [Hung Lee's Recruiting Brainfood](http://www.recruitingbrainfood.com/)  
@@ -40,3 +50,6 @@ Useful to find out if a candidate can travel without visa to another country for
 
 [Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
+
+
+
