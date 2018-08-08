@@ -20,6 +20,9 @@ Facebook, LinkedIn and Twitter Search tool.
 [Who posted what?](https://whopostedwhat.com/) by Henk van Ess  
 Facebook keyword search generator.
 
+[Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/naidmjmjlgpkbebchjabfjgcgjkgojbi?authuser=3) by Irina Shamaeva  
+Chrome Extension to collect email addresses from visited website pages.
+
 ### For Fun
 
 [Sourcing Games](https://www.sourcing.games/)  
