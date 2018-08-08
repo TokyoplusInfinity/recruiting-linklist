@@ -38,7 +38,7 @@ Curated HR Tech News. 2 issues so far.
 
 [How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
 
-[How to find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
+[How to Find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
 
 ### Interview Resources
 
