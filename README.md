@@ -12,13 +12,13 @@ Also: Looking for something to read? Have a look at my recommended [Articles](ht
 Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections and messages in LinkedIn.
 
 [WhatRuns](https://www.whatruns.com/)  
-Chrome Browser extension that identifies Frameworks, CMS, Templates etc. run on websites.
+Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
 [Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)  
 Facebook, LinkedIn and Twitter Search tool. 
 
 [Who posted what?](https://whopostedwhat.com/) by Henk van Ess  
-Facebook keyword search generator.
+Facebook Keyword Search Generator.
 
 [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/naidmjmjlgpkbebchjabfjgcgjkgojbi?authuser=3) by Irina Shamaeva  
 Chrome Extension to collect email addresses from visited website pages.
