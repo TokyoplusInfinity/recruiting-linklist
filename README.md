@@ -32,6 +32,12 @@ Curated list of articles, tools and anything useful for recruiting delivered to 
 [Alan Walker's Breaking Beard](https://www.getrevue.co/profile/breakingbeard)  
 Curated HR Tech News. 2 issues so far.
 
+### How to
+
+[How to Source Candidates On Flickr](https://www.linkedin.com/pulse/how-use-flicker-source-candidates-jan-tegze/)
+
+[How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
+
 ### Interview Resources
 
 https://interviewsteps.com/blogs/news 
