@@ -6,6 +6,8 @@ Ongoing project with regular updates.
 
 Also: Looking for something to read? Have a look at my recommended [Articles](https://github.com/gf-nl/recruiting-linklist/blob/master/articles.md)
 
+German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob/master/german.md)
+
 ### Tools
 
 [Orca](https://useorca.com/)  
