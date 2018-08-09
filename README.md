@@ -37,6 +37,8 @@ Curated HR Tech News. 2 issues so far.
 
 ### How to
 
+[How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)
+
 [How to Source Candidates On Flickr](https://www.linkedin.com/pulse/how-use-flicker-source-candidates-jan-tegze/)
 
 [How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
