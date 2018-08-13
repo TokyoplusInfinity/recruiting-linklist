@@ -13,6 +13,9 @@ German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob
 [Orca](https://useorca.com/)  
 Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections and messages in LinkedIn.
 
+[WeSource](https://www.wesource.io/en/)  
+Send Personalized Messages to Candidates. You can personalize your own template by using the candidates information on their LinkedIn Profile or generate a personalized message from scratch.
+
 [WhatRuns](https://www.whatruns.com/)  
 Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
