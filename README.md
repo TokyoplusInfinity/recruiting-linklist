@@ -16,6 +16,9 @@ Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections a
 [WeSource](https://www.wesource.io/en/)  
 Send Personalized Messages to Candidates. You can personalize your own template by using the candidates information on their LinkedIn Profile or generate a personalized message from scratch.
 
+[Discoverly](https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?hl=en)  
+Chrome Extension to get all Social Information on your contacts in one place.
+
 [WhatRuns](https://www.whatruns.com/)  
 Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
