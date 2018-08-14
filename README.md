@@ -74,5 +74,7 @@ Useful to find out if a candidate can travel without visa to another country for
 [Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
 
+### Equity
 
+[The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 
