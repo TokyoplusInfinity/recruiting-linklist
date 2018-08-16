@@ -2,8 +2,13 @@
 
 Hier sammel ich Links zu Blogs und Newslettern der deutschsprachigen Recruiting Community
 
-### Events 2018
+### Events in Deutschland 2018
 
-SOurcing Summit Germany - München  
-Social Recruiting Days - Berlin  
-HR BarCamp - Berlin, Wien, Zürich  
+[Sourcing Summit Germany](https://sourcingsummit.de/en/) - München  
+[Social Recruiting Days](https://www.socialrecruitingdays.de/en/) - Berlin  
+[HR BarCamp](http://hrbarcamp.eu/) - Berlin, Wien, Zürich  
+HR Failure Night - Wien
+HR.Hackathon() - Berlin
+personalmarketing2null & friends - Wiesbaden
+#hruBerlin - Berlin
+Rethink HR Tech - Hamburg
