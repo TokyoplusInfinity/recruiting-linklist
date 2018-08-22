@@ -2,6 +2,8 @@
 
 List of Articles I enjoyed reading. Or, being honest, which sounded interesting, were saved to [Pocket](https://getpocket.com/), and are waiting now there for some quiet reading time on my next flight. 
 
+[How to use Design Thinking in HR](https://www.myhrfuture.com/blog/2018/8/14/how-to-use-design-thinking-in-hr)
+
 [How to Hire - Stop Hiring for Culture Fit](https://hbr.org/2018/01/how-to-hire)  
 
 [AgileTA: The Next Generation Operating Model for Talent Acquisition](https://www.linkedin.com/pulse/agileta-next-generation-operating-model-talent-dave-putterman/)  
