@@ -2,8 +2,6 @@
 
 List of Articles I enjoyed reading. Or, being honest, which sounded interesting, were saved to [Pocket](https://getpocket.com/), and are waiting now there for some quiet reading time on my next flight. 
 
-[How to use Design Thinking in HR](https://www.myhrfuture.com/blog/2018/8/14/how-to-use-design-thinking-in-hr)
-
 [How to Hire - Stop Hiring for Culture Fit](https://hbr.org/2018/01/how-to-hire)  
 
 [AgileTA: The Next Generation Operating Model for Talent Acquisition](https://www.linkedin.com/pulse/agileta-next-generation-operating-model-talent-dave-putterman/)  
@@ -17,6 +15,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 [How to be a Manager - A step-by-step guide for leading a new team](https://getweeklyupdate.com/manager-guide) 
 
 [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)  
+
+[How to use Design Thinking in HR](https://www.myhrfuture.com/blog/2018/8/14/how-to-use-design-thinking-in-hr)
 
 [Want an All-Star Team? Try the Moneyball Approach to Hiring.](https://hirelearning.breezy.hr/want-an-all-star-team-try-the-moneyball-approach-to-hiring-13178cc0a539)  
 
