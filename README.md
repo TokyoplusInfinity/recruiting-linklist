@@ -81,6 +81,10 @@ Useful to find out if a candidate can travel without visa to another country for
 [Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
 
+### Salary
+
+[Open Compensation Data](https://www.levels.fyi/comp.html)  
+
 ### Equity
 
 [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
