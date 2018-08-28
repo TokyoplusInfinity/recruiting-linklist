@@ -4,6 +4,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 
 [How to Hire - Stop Hiring for Culture Fit](https://hbr.org/2018/01/how-to-hire)  
 
+[I know why rejection emails suck. I write them.](https://triplebyte.com/blog/rejection-feedback)  
+
 [AgileTA: The Next Generation Operating Model for Talent Acquisition](https://www.linkedin.com/pulse/agileta-next-generation-operating-model-talent-dave-putterman/)  
 
 [The Power and Importance of Storytelling in Recruitment](https://www.sourcecon.com/the-power-and-importance-of-storytelling-in-recruitment/)
