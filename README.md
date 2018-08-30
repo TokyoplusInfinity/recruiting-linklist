@@ -83,7 +83,10 @@ Awesome comparison of Average Monthly Rent for different cities worldwide.
 
 ### Salary
 
-[Open Compensation Data](https://www.levels.fyi/comp.html)  
+[Open Compensation Data](https://www.levels.fyi/comp.html)
+
+[Buffer's Transparent Salary Calculator](https://buffer.com/salary/data-architect/average/0)  
+Shows you how much you would earn for specific Engineering roles in different cities at Buffer.  
 
 ### Equity
 
