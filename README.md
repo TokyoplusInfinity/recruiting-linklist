@@ -31,6 +31,8 @@ Facebook Keyword Search Generator.
 [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/naidmjmjlgpkbebchjabfjgcgjkgojbi?authuser=3) by Irina Shamaeva  
 Chrome Extension to collect email addresses from visited website pages.
 
+#### Tools for Team Collaboration
+
 [Klipfolio](https://www.klipfolio.com/human-resources-analytics-tool)  
 Dashboard to Collect all KPIs and Metrics you need for Recruiting from different Tools in one Place
 
