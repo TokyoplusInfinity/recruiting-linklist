@@ -84,7 +84,7 @@ A curated collection of common interview questions to help you prepare for your 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  
 Curated List of Remote Working Resources
 
-[Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
+[Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)  
 Curated List of Resources for Digital Nomads and Remote Workers
 
 ### Relocation
