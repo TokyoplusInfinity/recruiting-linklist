@@ -10,6 +10,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 
 [The Power and Importance of Storytelling in Recruitment](https://www.sourcecon.com/the-power-and-importance-of-storytelling-in-recruitment/)
 
+[Surprising insights from talking to hiring teams in Silicon Valley](https://medium.com/@jmtame/surprising-insights-from-talking-to-hiring-teams-in-silicon-valley-e8f06b8f9aa)  
+
 [How to calculate the ROI of Online Communities](https://www.feverbee.com/roi/)  
 
 [Recruitment Metrics - What are in-house Recruiters actually measuring? And why?](https://www.linkedin.com/pulse/recruitment-metrics-what-in-house-recruiters-actually-laura-peakall/)  
