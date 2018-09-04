@@ -102,6 +102,9 @@ Awesome comparison of Average Monthly Rent for different cities worldwide.
 [Buffer's Transparent Salary Calculator](https://buffer.com/salary/data-architect/average/0)  
 Shows you how much you would earn for specific Engineering roles in different cities at Buffer.  
 
+[Carta Offer Letter](https://blog.carta.com/a-better-offer-letter/)  
+Example of a transparent offer letter by Carta.
+
 ### Equity
 
 [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
