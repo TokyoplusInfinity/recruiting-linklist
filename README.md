@@ -41,9 +41,11 @@ Dashboard to Collect all KPIs and Metrics you need for Recruiting from different
 [Realtime Board](https://realtimeboard.com/)   
 Virtual Whiteboard
 
-## For Fun
+## Training
 
 [Sourcing Games](https://www.sourcing.games/)  
+
+[Free Tech Recruitment Certification Course](https://devskiller.com/devskiller-tech-recruitment-certification-course/)  
 
 ## Newsletter
 
