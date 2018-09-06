@@ -15,3 +15,5 @@ Great overview of all the databases out there. Ranked by popularity and  with ba
 [List of Datasets](https://towardsdatascience.com/cool-data-sets-ive-found-adc17c5e55e1)  
 You want to try to run your own database but need some data? Great list of free datasets to use.
 
+[Google Dataset Search](https://toolbox.google.com/datasetsearch)  
+Search for Datasets via Google (Beta).
