@@ -12,20 +12,16 @@ German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob
 
 ## Tools
 
-[Orca](https://useorca.com/referral/quHBoZ3g)  
-Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections and messages in LinkedIn.
+### Tools for Sourcing
+
+[Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)  
+Facebook, LinkedIn and Twitter Search tool. 
 
 [WeSource](https://www.wesource.io/en/)  
 Send Personalized Messages to Candidates. You can personalize your own template by using the candidates information on their LinkedIn Profile or generate a personalized message from scratch.
 
 [Discoverly](https://chrome.google.com/webstore/detail/discoverly-for-gmail-link/dijhcpbkalfgkcebgoncjmfpbamihgaf?hl=en)  
 Chrome Extension to get all Social Information on your Gmail, LinkedIn and Twitter Contacts in one Place.
-
-[WhatRuns](https://www.whatruns.com/)  
-Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
-
-[Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)  
-Facebook, LinkedIn and Twitter Search tool. 
 
 [Who posted what?](https://whopostedwhat.com/) by Henk van Ess  
 Facebook Keyword Search Generator.
@@ -40,6 +36,14 @@ Dashboard to Collect all KPIs and Metrics you need for Recruiting from different
 
 [Realtime Board](https://realtimeboard.com/)   
 Virtual Whiteboard
+
+### Other Tools
+
+[Orca](https://useorca.com/referral/quHBoZ3g)  
+Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections and messages in LinkedIn.
+
+[WhatRuns](https://www.whatruns.com/)  
+Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
 ## Training
 
