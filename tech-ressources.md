@@ -2,6 +2,11 @@
 
 As a Tech Recruiter, you need to know what Candidates are talking about. How best to do that? By learning some coding yourself. Or by doing a lot of research. Here I collect some Resources, which were helpful for me to understand and learn.
 
+## JavaScript
+
+[Warriorjs](https://warrior.js.org/)  
+A Dungeon Quest Game to learn JavaScript and AI.
+
 ## SQL  
 
 [SQL Tutorial](https://selectstarsql.com/)  
