@@ -113,3 +113,16 @@ Example of a transparent offer letter by Carta.
 
 [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 
+## Tech Company Overviews
+
+[Employbl](https://employbl.com/)  
+Overview of Tech Companies in San Francisco and San Mateo.
+
+[Crunchbase](https://www.crunchbase.com/)  
+Platform for Company Insights like Investment Status, Number of Employees, Founders etc.
+
+[DB Engines](https://db-engines.com/en/)  
+Overview of Database Management Systems.
+
+[Database of Databases](https://dbdb.io/)  
+Another Overview of about 550 Database Management Systems and the Companies behind them.
