@@ -107,8 +107,11 @@ Awesome comparison of Average Monthly Rent for different cities worldwide.
 
 [Open Compensation Data](https://www.levels.fyi/comp.html)
 
+[Stackoverflow Salary Calculator](https://stackoverflow.com/jobs/salary)  
+Stackoverflow Salary Calculator based on the results of the annual Developer Survey.
+
 [Buffer's Transparent Salary Calculator](https://buffer.com/salary/data-architect/average/0)  
-Shows you how much you would earn for specific Engineering roles in different cities at Buffer.  
+Shows you how much you would earn for specific Engineering roles in different cities at Buffer. 
 
 [Carta Offer Letter](https://blog.carta.com/a-better-offer-letter/)  
 Example of a transparent offer letter by Carta.
