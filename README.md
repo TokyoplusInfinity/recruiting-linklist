@@ -120,6 +120,9 @@ Example of a transparent offer letter by Carta.
 
 [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 
+[Capshare](https://www.capshare.com/)  
+Easy to use Equity Management Platform. 
+
 ## Tech Company Overviews
 
 [Employbl](https://employbl.com/)  
