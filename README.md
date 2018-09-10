@@ -83,6 +83,9 @@ What to expect when interviewing for different roles at Tech Companies.
 [30 Seconds of Interviews](https://30secondsofinterviews.org/)  
 A curated collection of common interview questions to help you prepare for your next interview. 
 
+[Interview Guidelines for Game Changers](https://www.dropbox.com/s/aee4dl1vf00f6mq/Game-Changer06.pdf)  
+Guidelines on how to hire for C-Level roles.
+
 ## Social Media
 
 [Best Times to Post on Social Media: 2018 Industry Research](https://sproutsocial.com/insights/best-times-to-post-on-social-media/)
