@@ -2,6 +2,8 @@
 
 List of Articles I enjoyed reading. Or, being honest, which sounded interesting, were saved to [Pocket](https://getpocket.com/), and are waiting now there for some quiet reading time on my next flight. 
 
+[Designing the Future of Work](https://medium.com/google-design/designing-the-future-of-work-c84e9b3e63)  
+
 [How to Hire - Stop Hiring for Culture Fit](https://hbr.org/2018/01/how-to-hire)  
 
 [I know why rejection emails suck. I write them.](https://triplebyte.com/blog/rejection-feedback)  
