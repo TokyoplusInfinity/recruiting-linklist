@@ -126,6 +126,12 @@ Example of a transparent offer letter by Carta.
 [Capshare](https://www.capshare.com/)  
 Easy to use Equity Management Platform. 
 
+## Company Culture
+
+[Netflix Company Culture](https://jobs.netflix.com/culture)  
+
+[old Version - Netflix Company Culture](https://www.slideshare.net/reed2001/culture-1798664)  
+
 ## Tech Company Overviews
 
 [Employbl](https://employbl.com/)  
