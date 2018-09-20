@@ -71,6 +71,8 @@ Curated HR Tech News. 2 issues so far.
 
 [How to Find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
 
+[How to Source Candidates on Medium](https://www.sourcecon.com/how-to-source-candidates-on-medium/)  
+
 ## Interview Resources
 
 [Interview Step's Blog](https://interviewsteps.com/blogs/news)  
