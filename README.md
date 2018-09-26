@@ -131,6 +131,9 @@ Example of a transparent offer letter by Carta.
 [Capshare](https://www.capshare.com/)  
 Easy to use Equity Management Platform. 
 
+[Understanding Incentive Stock Options](https://medium.com/@kt_seagull/understanding-incentive-stock-options-ec4c0dc1498f)  
+This article is a non-official resource on evaluating startup stock packages.   
+
 ## Company Culture
 
 [Netflix Company Culture](https://jobs.netflix.com/culture)  
