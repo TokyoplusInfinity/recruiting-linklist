@@ -108,6 +108,9 @@ Curated List of Resources for Digital Nomads and Remote Workers
 [Travelscope](https://www.markuslerner.com/travelscope/)  
 Useful to find out if a candidate can travel without visa to another country for an interview. Also useful to reasearch visa for employee's conference attendance.
 
+[Passport Index](https://www.passportindex.org/comparebyPassport.php)  
+Compare Passports.
+
 [Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
 
