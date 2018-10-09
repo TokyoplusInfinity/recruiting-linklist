@@ -30,7 +30,7 @@ Facebook Keyword Search Generator.
 Chrome Extension to collect email addresses from visited website pages.
 
 [WizardSourcer](https://wizardsourcer.com/tools/)  
-List of recommended Sourcing Tools bei Wizard Sourcer.
+List of recommended Sourcing Tools.
 
 ### Tools for Team Collaboration
 
