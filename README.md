@@ -45,6 +45,11 @@ Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections a
 [WhatRuns](https://www.whatruns.com/)  
 Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
 
+### Tool Lists
+
+[WizardSourcer](https://wizardsourcer.com/tools/)  
+List of recommended Sourcing Tools bei Wizard Sourcer.
+
 ## Training
 
 [Sourcing Games](https://www.sourcing.games/)  
