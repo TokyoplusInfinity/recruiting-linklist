@@ -12,6 +12,20 @@ German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob
 
 ## Sourcing
 
+### How to
+
+[How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)
+
+[How to Find almost any GitHub Users Email Address](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address/)
+
+[How to Source Candidates On Flickr](https://www.linkedin.com/pulse/how-use-flicker-source-candidates-jan-tegze/)
+
+[How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
+
+[How to Find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
+
+[How to Source Candidates on Medium](https://www.sourcecon.com/how-to-source-candidates-on-medium/)  
+
 ### Tools for Sourcing
 
 [Intelligence Search](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)  
@@ -61,20 +75,6 @@ Curated list of articles, tools and anything useful for recruiting delivered to 
 
 [Alan Walker's Breaking Beard](https://www.getrevue.co/profile/breakingbeard)  
 Curated HR Tech News. 2 issues so far.
-
-## How to
-
-[How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)
-
-[How to Find almost any GitHub Users Email Address](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address/)
-
-[How to Source Candidates On Flickr](https://www.linkedin.com/pulse/how-use-flicker-source-candidates-jan-tegze/)
-
-[How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
-
-[How to Find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
-
-[How to Source Candidates on Medium](https://www.sourcecon.com/how-to-source-candidates-on-medium/)  
 
 ## Interview 
 
