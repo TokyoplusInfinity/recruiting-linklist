@@ -2,6 +2,11 @@
 
 As a Tech Recruiter, you need to know what Candidates are talking about. How best to do that? By learning some coding yourself. Or by doing a lot of research. Here I collect some Resources, which were helpful for me to understand and learn.
 
+## C++
+
+[C++17/14/11](https://github.com/AnthonyCalandra/modern-cpp-features)  
+Cheatsheet of modern C++ language and library features.  
+
 ## JavaScript
 
 [Warriorjs](https://warrior.js.org/)  
