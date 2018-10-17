@@ -149,7 +149,7 @@ This article is a non-official resource on evaluating startup stock packages.
 
 ## Company Culture
 
-[It Doesn't Have to Be Crazy at Work (book](https://basecamp.com/books/calm)  
+[It Doesn't Have to Be Crazy at Work (book)](https://basecamp.com/books/calm)  
 
 [Netflix Company Culture](https://jobs.netflix.com/culture)  
 
