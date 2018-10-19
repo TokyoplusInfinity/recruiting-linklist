@@ -46,13 +46,21 @@ Chrome Extension to collect email addresses from visited website pages.
 [WizardSourcer](https://wizardsourcer.com/tools/)  
 List of recommended Sourcing Tools.
 
-#### Meta Search Engines
+### Meta Search Engines
 
 [Talentwunder](https://talentwunder.com/en/)
 
 [HiringSolved](https://hiringsolved.com/)  
 
 [AmazingHiring](https://amazinghiring.com/)  
+
+### Sourcing Training
+
+[Sourcing Games](https://www.sourcing.games/)  
+
+[Free Tech Recruitment Certification Course](https://devskiller.com/devskiller-tech-recruitment-certification-course/)  
+
+[Social Talent](https://www.socialtalent.com/)  
 
 ### Tools for Team Collaboration
 
@@ -69,14 +77,6 @@ Lead Campaign Tool for LinkedIn. Automate sequenced profile views, connections a
 
 [WhatRuns](https://www.whatruns.com/)  
 Chrome Extension that identifies Frameworks, CMS, Templates etc. run on websites.
-
-## Training
-
-[Sourcing Games](https://www.sourcing.games/)  
-
-[Free Tech Recruitment Certification Course](https://devskiller.com/devskiller-tech-recruitment-certification-course/)  
-
-[Social Talent](https://www.socialtalent.com/)  
 
 ## Newsletter
 
