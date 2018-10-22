@@ -46,6 +46,9 @@ Chrome Extension to collect email addresses from visited website pages.
 [WizardSourcer](https://wizardsourcer.com/tools/)  
 List of recommended Sourcing Tools.
 
+[SpiderFoot](https://github.com/smicallef/spiderfoot)  
+Queries over 100 public data sources (OSINT) to gather intelligence on IP addresses, domain names, e-mail addresses, names and more. 
+
 ### Meta Search Engines
 
 [Talentwunder](https://talentwunder.com/en/)
