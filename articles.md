@@ -14,6 +14,8 @@ List of Articles I enjoyed reading. Or, being honest, which sounded interesting,
 
 [The future of recruiting: How you can hire exceptional employees](https://resources.workable.com/hire-exceptional-employees)  
 
+[The Art of Turning Rejected Candidates into Allies](https://hire.google.com/articles/turn-rejected-candidates-into-allies/)  
+
 [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/)  
 
 [Surprising insights from talking to hiring teams in Silicon Valley](https://medium.com/@jmtame/surprising-insights-from-talking-to-hiring-teams-in-silicon-valley-e8f06b8f9aa)  
