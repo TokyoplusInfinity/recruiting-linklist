@@ -140,7 +140,7 @@ Compare Passports.
 Awesome comparison of Average Monthly Rent for different cities worldwide.
 
 [My Life Elsewhere](http://www.mylifeelsewhere.com/compare/germany/netherlands)  
-Quality of Life comparison between Countries.
+Cost of Living, Quality of Life comparison between Countries.
 
 ## Salary
 
