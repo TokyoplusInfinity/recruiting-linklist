@@ -139,6 +139,9 @@ Compare Passports.
 [Average Monthly Rent by City](https://i.redd.it/0lji1j8bzh711.png)  
 Awesome comparison of Average Monthly Rent for different cities worldwide.
 
+[My Life Elsewhere](http://www.mylifeelsewhere.com/compare/germany/netherlands)  
+Quality of Life comparison between Countries.
+
 ## Salary
 
 [Open Compensation Data](https://www.levels.fyi/comp.html)
