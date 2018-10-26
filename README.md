@@ -100,9 +100,6 @@ Web application for conducting remote technical interviews for software engineer
 
 ### Resources
 
-[Interview Step's Blog](https://interviewsteps.com/blogs/news)  
-What to expect when interviewing for different roles at Tech Companies.
-
 [9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl) 
 
 [Updating Your Engineering Interview to Make Better Hiring Decisions](https://www.cockroachlabs.com/blog/updating-eng-interview/)  
@@ -110,11 +107,17 @@ What to expect when interviewing for different roles at Tech Companies.
 [30 Seconds of Interviews](https://30secondsofinterviews.org/)  
 A curated collection of common interview questions to help you prepare for your next interview. 
 
+[10 Proven C++ Programming Questions](https://tests4geeks.com/cpp-interview-questions/)  
+A collection of premade C++ interview questions, assembled by a team of Expert C++ Programmers.
+
 [Interview Guidelines for Game Changers](https://www.dropbox.com/s/aee4dl1vf00f6mq/Game-Changer06.pdf)  
 Guidelines on how to hire for C-Level roles.
 
 [Interviewing.io](https://interviewing.io/recordings/)  
 Recordings of Technical Mock Interviews with Engineeers from Google, LinkedIn and more.
+
+[Interview Step's Blog](https://interviewsteps.com/blogs/news)  
+What to expect when interviewing for different roles at Tech Companies.
 
 ## Social Media
 
