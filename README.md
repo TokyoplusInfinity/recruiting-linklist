@@ -98,6 +98,11 @@ Curated HR Tech News. 2 issues so far.
 [Type12](https://app.type12.com)  
 Web application for conducting remote technical interviews for software engineers. 
 
+[HackerRank](https://www.hackerrank.com/)  
+End-to-end technical recruiting platform for hiring developers.
+
+[Codility](https://www.codility.com/)  
+
 ### Resources
 
 [9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl) 
