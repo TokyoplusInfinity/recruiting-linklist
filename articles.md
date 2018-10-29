@@ -2,6 +2,8 @@
 
 List of Articles I enjoyed reading. Or, being honest, which sounded interesting, were saved to [Pocket](https://getpocket.com/), and are waiting now there for some quiet reading time on my next flight. 
 
+[5 Human Resources Models Every HR Practitioner Should Know](https://www.digitalhrtech.com/human-resources-models/)  
+
 [Designing the Future of Work](https://medium.com/google-design/designing-the-future-of-work-c84e9b3e63)  
 
 [How to Hire - Stop Hiring for Culture Fit](https://hbr.org/2018/01/how-to-hire)  
