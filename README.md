@@ -4,7 +4,7 @@ Inspired by [Sjamilla's](https://github.com/Sjamilla) awesome [awesome-recruitme
 
 Ongoing project with regular updates.
 
-Some advice first: If you have limited time to keep up with everything going on in the Recruitment World, make [Hung Lee's Recruiting Brainfood Newsletter](http://www.recruitingbrainfood.com/) the only thing you read every week.
+Some advice first: If you have limited time to keep up with everything going on in the Recruitment World, make [Hung Lee's Recruiting Brainfood Newsletter](http://www.recruitingbrainfood.com/) the one thing you read every week.
 
 As a Tech Recruiter these [Resources](https://github.com/gf-nl/recruiting-linklist/blob/master/tech-ressources.md) help me to strenghten my technical background.
 
