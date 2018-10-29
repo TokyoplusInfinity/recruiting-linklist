@@ -19,12 +19,11 @@ German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob
 [How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)  
 
 [How to Find almost any Github Users Email Address](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address/)
-
 [How to Find almost any Github User Email Address 2.0](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address-2-0/)    
+
 [How to Source Candidates On Flickr](https://www.linkedin.com/pulse/how-use-flicker-source-candidates-jan-tegze/)
 
 [How to Find Facebook Graph IDs for Job Titles](https://booleanstrings.com/2018/06/29/facebook-ids-for-job-titles/)
-
 [How to Find Facebook Graph IDs for Companies](https://booleanstrings.com/2018/07/18/finding-facebook-ids-for-companies-hack/)
 
 [How to Source Candidates on Medium](https://www.sourcecon.com/how-to-source-candidates-on-medium/)  
