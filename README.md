@@ -16,7 +16,9 @@ German? [Hier entlang, bitte!](https://github.com/gf-nl/recruiting-linklist/blob
 
 ### How to
 
-[How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)
+[How to Source Developers on GitHub](https://beamery.com/blog/sourcing-developers-on-github)  
+
+[How to Find almost any Github User Email Address](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address-2-0/)  
 
 [How to Find almost any GitHub Users Email Address](https://www.sourcecon.com/how-to-find-almost-any-github-users-email-address/)
 
