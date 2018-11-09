@@ -30,3 +30,8 @@ You want to try to run your own database but need some data? Great list of free 
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)  
 Search for Datasets via Google (Beta).
+
+## Other
+
+[How long has ... existed?](https://howoldisit.glitch.me/)
+Tool for recruiters to check how old a technology is.
