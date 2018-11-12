@@ -152,6 +152,9 @@ Awesome comparison of Average Monthly Rent for different cities worldwide.
 [My Life Elsewhere](http://www.mylifeelsewhere.com/compare/germany/netherlands)  
 Cost of Living, Quality of Life comparison between Countries.
 
+[Relocate.me/blog](https://relocate.me/blog/job-relocation/relocation-packages-in-tech-industry-insights-from-relocate-me/)  
+Relocation Packages in Tech. Industry Insights from Relocate.me.  
+
 ## Salary
 
 [Open Compensation Data](https://www.levels.fyi/comp.html)
