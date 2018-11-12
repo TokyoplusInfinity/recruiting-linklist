@@ -103,6 +103,8 @@ End-to-end technical recruiting platform for hiring developers.
 
 [Codility](https://www.codility.com/)  
 
+[DevSkiller](https://devskiller.com/)  
+
 ### Resources
 
 [9 Unusual Design Patterns Interview Questions (with Answers)](https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl) 
